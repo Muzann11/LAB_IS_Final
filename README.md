@@ -1,5 +1,7 @@
 # LAB_IS_Final
 
+<img src="CV%20Classification%20Video.gif" width="100%" alt="CV Classification Demo">
+
 Repo ini dibuat berdasarkan penugasan `final project internship lab Intelligent System`.
 Project ini bertujuan untuk membuat sebuah job recommender system dengan menggabungkan hasil analisis cv dengan job yang sedang trending.
 
@@ -28,8 +30,4 @@ Evaluasi Model CV:
 | | Weighted Average | 78.5 | 78.5 | 77.8 |
 | | Accuracy | | 78.5 | |
 
-System Flow:
-
-
-![System Flow](CV%20Classification%20Video.gif)
 
