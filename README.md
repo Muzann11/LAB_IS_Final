@@ -1,8 +1,13 @@
 # LAB_IS_Final
 
-
 Repo ini dibuat berdasarkan penugasan `final project internship lab Intelligent System`.
 Project ini bertujuan untuk membuat sebuah job recommender system dengan menggabungkan hasil analisis cv dengan job yang sedang trending.
+
+
+
+https://github.com/user-attachments/assets/e17134e9-b48f-41b4-a4ed-404351789901
+
+
 
 Dataset:
 1. Dataset teks CV untuk training didapat dari huggingface: https://huggingface.co/datasets/ahmedheakl/resume-atlas
