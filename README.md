@@ -31,5 +31,5 @@ Evaluasi Model CV:
 System Flow:
 
 
-<img width="383" height="721" alt="image" src="https://github.com/user-attachments/assets/b33af477-2fb2-445d-9ebd-3ff0b30acfc7" />
+![System Flow](CV%20Classification%20Video.gif)
 
